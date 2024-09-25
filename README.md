@@ -4,3 +4,6 @@ Neste repositório o principal ovjetivo foi praticar alguns conceitos de if &amp
 Alguns exercícios : 
 
 1 :  Escreva um programa que receba o raio de uma circunferência e mostre o diâmetro, comprimento e área desta.
+
+
+
